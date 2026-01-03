@@ -92,6 +92,15 @@ ProteinMPNN     ◄─────┘               Glycoform Heterogeneity?
                BEFORE they matter
 ```
 
+## Acknowledgments
+
+The RFantibody sequences used in this demo were generated using a Google Colab workflow adapted from **Andrew Smith's** excellent Docker-free RFantibody implementation:
+
+- Blog post: [https://www.andrew-smith.me/blog/antibody/](https://www.andrew-smith.me/blog/antibody/)
+- Colab notebook: [RFantibody Colab](https://colab.research.google.com/drive/1-zku6ZcDjK2p4rbyd8CS-ZU7ASeFS026)
+
+Andrew's work made RFantibody accessible without requiring local Docker setup — a significant contribution to the community.
+
 ## License
 
 MIT License. See LICENSE file.
